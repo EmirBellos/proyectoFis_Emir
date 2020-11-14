@@ -29,19 +29,23 @@
 
 1. Método de la introspección
      
-       1. Percepción basada en la información obtenida de nuestros cinco sentidos 
+1.1 Percepción basada en la información obtenida de nuestros cinco sentidos 
+      
+**La Percepción**
+Sobre la percepción se ofrecen divrsas defíniciones que han ido evolucionando jacia la implicación de las experiencias y los procesos internos del individuo.
 
+El planteamiento ecologista de Gibson deiende la teoría de que la percepción es un proceso simple; en el estímulo está
           1. La visión
           2. La audición
           3. El olfato
           4. EL gusto
           5. EL tacto	
 
-       2. Uso de lenguaje natural para el pensamiento
+      2. Uso de lenguaje natural para el pensamiento
           1. Transmisión
           2. Recepción
 
-       3. Estructura de la inteligencia artificial
+      3. Estructura de la inteligencia artificial
 
           1. Entrada
              1. Percepción (visión, etc.)

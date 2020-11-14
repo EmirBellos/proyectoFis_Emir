@@ -6,10 +6,11 @@
 </p>
 
 # Equipo #
-<ul>
-  <li><a href="https://github.com/omarzone">Omar Cauich</a></li>
-  <li><a href="https://github.com/EmirBellos">Emir Bellos</a></li>
-</ul>
+* Omar Cauich [@omarzone](https://github.com/omarzone)
+* Emir Bellos [@EmirBellos](https://github.com/EmirBellos)
+* Daniel Pliego [@DanielPliego](https://github.com/DanielPliego)
+* Yajani
+* Carlos
 
 # Contents
 

@@ -34,7 +34,9 @@
 **La Percepción**
 Sobre la percepción se ofrecen divrsas defíniciones que han ido evolucionando jacia la implicación de las experiencias y los procesos internos del individuo.
 
-El planteamiento ecologista de Gibson deiende la teoría de que la percepción es un proceso simple; en el estímulo está
+El planteamiento ecologista de Gibson deiende la teoría de que la percepción es un proceso simple; en el estímulo está la información, sin necesidad de procesamientos mentales internos posteriores. Dicho planteamiento parte del supuesto de que en las leyes naturales subyacentes en cada organismo están las claves intelectuales de la percepción como mecanismo de supervivencia, por tanto, el organismo sólo percibe aquello que puede aprender y le es necesario para sobrevivir.
+
+
           1. La visión
           2. La audición
           3. El olfato

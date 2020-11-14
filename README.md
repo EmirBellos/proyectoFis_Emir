@@ -6,11 +6,10 @@
 </p>
 
 # Equipo #
-- Omar Cauich [@omarzone](https://github.com/omarzone) :smiley:
--
--
--
--
+<ul>
+  <li><a href="https://github.com/omarzone">Omar Cauich</a></li>
+  <li><a href="https://github.com/EmirBellos">Emir Bellos</a></li>
+</ul>
 
 # Contents
 

@@ -24,5 +24,30 @@
     - [DIA MES 2020](https://github.com/dani-e1-best/Proyecto-FIS/blob/work/Documentacion/BITACORAS/01.%20Bitacora%20DIA%20MES%202020.md)
     - [DIA MES 2020](https://github.com/dani-e1-best/Proyecto-FIS/blob/work/Documentacion/BITACORAS/01.%20Bitacora%20DIA%20MES%202020.md)
     - [DIA MES 2020](https://github.com/dani-e1-best/Proyecto-FIS/blob/work/Documentacion/BITACORAS/01.%20Bitacora%20DIA%20MES%202020.md)
+    
+    
 
+1. Método de la introspección
+     
+       1. Percepción basada en la información obtenida de nuestros cinco sentidos 
 
+          1. La visión
+          2. La audición
+          3. El olfato
+          4. EL gusto
+          5. EL tacto	
+
+       2. Uso de lenguaje natural para el pensamiento
+          1. Transmisión
+          2. Recepción
+
+       3. Estructura de la inteligencia artificial
+
+          1. Entrada
+             1. Percepción (visión, etc.)
+                1. Técnicas
+                   1. Sistemas difusos
+                   2. Red neuronal MLP
+                   3. Red neuronal convolucional
+                   4. Inteligencia de enjambre
+                   5. Sistema inmune artificial

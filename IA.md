@@ -131,24 +131,38 @@ El cerebro se apoya en los órganos de los sentidos para reunir información sen
 
       Los olores entran al cuerpo por la nariz, provenientes de las partículas transmitidas por el aire que se captan al respirar. Inhalar profundamente por la nariz e inclinarse hacia la fuente de un olor, puede intensificarlo.
       Dentro de la nariz se encuentra un gran nervio llamado bulbo olfatorio, el cual sale de la parte superior de la nariz y se conecta directamente con el cerebro. Las moléculas aéreas aspiradas por la nariz desencadenan una respuesta nerviosa del bulbo olfatorio, que al notar los olores, de inmediato informa al cerebro.
-          	
 
-      2. Uso de lenguaje natural para el pensamiento
+ 2. Uso de lenguaje natural para el pensamiento
           1. Transmisión
           2. Recepción
 
-      3. Estructura de la inteligencia artificial
+ 3. Estructura de la inteligencia artificial
+ 
+En la actualidad uno de los proyectos más ambiciosos de la informática es la inteligencia artificial, por tal motivo es difícil definir exactamente qué es y los alcances que tiene. Es de fundamental importancia conocer los orígenes de su nombre, es decir el significado de la palabra inteligencia y así mismo el de la palabra artificial, mismos que según (Arauz, 1998) son: 
 
-          1. Entrada
-             1. Percepción (visión, etc.)
-                1. Técnicas
-                   1. Sistemas difusos
-                   2. Red neuronal MLP
-                   3. Red neuronal convolucional
-                   4. Inteligencia de enjambre
-                   5. Sistema inmune artificial
+ * Inteligencia, es la potencia intelectiva, la facultad de conocer o de entender. El grado en que un individuo puede resolver satisfactoriamente una nueva situación o un problema. La inteligencia está basada en el nivel de conocimientos individuales y en la habilidad de manipular y reformular apropiadamente los conocimientos en base a los datos que se proporcionan como requerimientos para resolver algún problema o situación. 
+
+  * Artificial, es lo hecho por mano y arte del hombre, falso, no natural.
+  
+3.1 Entrada
+ Todos los agentes tienen una estructura básica o mínima o esquelética igual, y esta debe estar acorde con la función que realiza el agente:
+ 
+ AGENTE INTELIGENTE = ARQUITECTURA + PROGRAMA
+ 
+ La arquitectura refiere a la parte fisica, como los sensores/ efectores
+  
+  
+     1. Entrada
+        1. Percepción (visión, etc.)
+           1. Técnicas
+              1. Sistemas difusos
+              2. Red neuronal MLP
+              3. Red neuronal convolucional
+              4. Inteligencia de enjambre
+              5. Sistema inmune artificial
                    
   Referencias:
   * [1.1_Percepción](https://askthescientists.com/es/senses/)
+  * [3.1 percepcion visíon](https://sites.google.com/site/mayinteligenciartificial/estructura-de-los-agentes-inteligentes)
      
      

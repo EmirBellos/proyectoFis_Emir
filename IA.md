@@ -122,15 +122,15 @@ El cerebro se apoya en los órganos de los sentidos para reunir información sen
      
    * Oído
    
-   El oído es un sentido poderoso, ese que puede alegrarlo o protegerlo del peligro.
-   Cuando usted oye la voz de un ser querido, la audición permite a su cerebro interpretar como conocida y tranquilizadora la voz del otro. La melodía de su canción favorita es    otro ejemplo del oído en acción. Las orejas recogen este tipo de información sensorial para el cerebro, que llega en ondas sonoras, que son un tipo de energía mecánica. Cada    onda sonora es una vibración de frecuencia única. El oído recibe y amplifica las ondas sonaras que el cerebro interpreta como diálogo, música, risa o mucho más.
+     El oído es un sentido poderoso, ese que puede alegrarlo o protegerlo del peligro.
+     Cuando usted oye la voz de un ser querido, la audición permite a su cerebro interpretar como conocida y tranquilizadora la voz del otro. La melodía de su canción favorita es otro ejemplo del oído en acción. Las orejas recogen este tipo de información sensorial para el cerebro, que llega en ondas sonoras, que son un tipo de energía mecánica. Cada onda sonora es una vibración de frecuencia única. El oído recibe y amplifica las ondas sonaras que el cerebro interpreta como diálogo, música, risa o mucho más.
  
   * Olfato
   
-   El quinto y último sentido es el del olfato. La olfacción, otra manera de llamarle al olfato, es única, pues el órgano sensorial detector está directamente conectado con el      cerebro, por eso el sentido del olfato es extremadamente poderoso.
+     El quinto y último sentido es el del olfato. La olfacción, otra manera de llamarle al olfato, es única, pues el órgano sensorial detector está directamente conectado con el cerebro, por eso el sentido del olfato es extremadamente poderoso.
 
-   Los olores entran al cuerpo por la nariz, provenientes de las partículas transmitidas por el aire que se captan al respirar. Inhalar profundamente por la nariz e inclinarse      hacia la fuente de un olor, puede intensificarlo.
-   Dentro de la nariz se encuentra un gran nervio llamado bulbo olfatorio, el cual sale de la parte superior de la nariz y se conecta directamente con el cerebro. Las moléculas    aéreas aspiradas por la nariz desencadenan una respuesta nerviosa del bulbo olfatorio, que al notar los olores, de inmediato informa al cerebro.
+      Los olores entran al cuerpo por la nariz, provenientes de las partículas transmitidas por el aire que se captan al respirar. Inhalar profundamente por la nariz e inclinarse hacia la fuente de un olor, puede intensificarlo.
+      Dentro de la nariz se encuentra un gran nervio llamado bulbo olfatorio, el cual sale de la parte superior de la nariz y se conecta directamente con el cerebro. Las moléculas aéreas aspiradas por la nariz desencadenan una respuesta nerviosa del bulbo olfatorio, que al notar los olores, de inmediato informa al cerebro.
           	
 
       2. Uso de lenguaje natural para el pensamiento

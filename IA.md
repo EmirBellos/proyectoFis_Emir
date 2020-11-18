@@ -118,8 +118,7 @@ El cerebro se apoya en los órganos de los sentidos para reunir información sen
    * Vista
      
      El tercer sentido es el de la vista (también conocido como visión), formado por el cerebro y un par de órganos sensoriales: los ojos. A menudo se piensa que la vista es el más fuerte de los sentidos porque, en cuanto a información sobre el medioambiente, los humanos tienden a depender más de la visión que del oído o el olfato. Cuando usted mira a su alrededor, la luz del espectro visible la detectan los ojos. Rojo, anaranjado, amarillo, verde, azul, añil y violete son los colores del espectro de luz visible. La fuente de esta luz puede provenir de una lámpara, la pantalla de la computadora o del sol.
-
-Cuando la luz es reflejada por los objetos que lo rodean, los ojos mandan señales al cerebro y se crea una imagen reconocible. Los ojos utilizan la luz para leer, discernir entre un color y otro, incluso para coordinar prendas de vestir y crear un atuendo combinado.
+     Cuando la luz es reflejada por los objetos que lo rodean, los ojos mandan señales al cerebro y se crea una imagen reconocible. Los ojos utilizan la luz para leer, discernir      entre un color y otro, incluso para coordinar prendas de vestir y crear un atuendo combinado.
      
    * Oído
    
@@ -128,10 +127,10 @@ Cuando la luz es reflejada por los objetos que lo rodean, los ojos mandan señal
  
   * Olfato
   
-  El quinto y último sentido es el del olfato. La olfacción, otra manera de llamarle al olfato, es única, pues el órgano sensorial detector está directamente conectado con el     cerebro, por eso el sentido del olfato es extremadamente poderoso.
+   El quinto y último sentido es el del olfato. La olfacción, otra manera de llamarle al olfato, es única, pues el órgano sensorial detector está directamente conectado con el      cerebro, por eso el sentido del olfato es extremadamente poderoso.
 
-  Los olores entran al cuerpo por la nariz, provenientes de las partículas transmitidas por el aire que se captan al respirar. Inhalar profundamente por la nariz e inclinarse hacia la fuente de un olor, puede intensificarlo.
-Dentro de la nariz se encuentra un gran nervio llamado bulbo olfatorio, el cual sale de la parte superior de la nariz y se conecta directamente con el cerebro. Las moléculas aéreas aspiradas por la nariz desencadenan una respuesta nerviosa del bulbo olfatorio, que al notar los olores, de inmediato informa al cerebro.
+   Los olores entran al cuerpo por la nariz, provenientes de las partículas transmitidas por el aire que se captan al respirar. Inhalar profundamente por la nariz e inclinarse      hacia la fuente de un olor, puede intensificarlo.
+   Dentro de la nariz se encuentra un gran nervio llamado bulbo olfatorio, el cual sale de la parte superior de la nariz y se conecta directamente con el cerebro. Las moléculas    aéreas aspiradas por la nariz desencadenan una respuesta nerviosa del bulbo olfatorio, que al notar los olores, de inmediato informa al cerebro.
           	
 
       2. Uso de lenguaje natural para el pensamiento
